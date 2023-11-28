@@ -1,7 +1,6 @@
 name: Hellow World Workflow
-
 on:
-  push:
+  push
     branches:
         - main
   pull_request:
